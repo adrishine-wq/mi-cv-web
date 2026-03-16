@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#perfil {
+    background-color: #1e1e1e;
+    border-left: 5px solid #4CAF50;
+}
+
+#perfil h2 {
+    color: #4CAF50;
+}
+
+#perfil ul {
+    padding-left: 20px;
+}
+
+#perfil li {
+    margin-bottom: 8px;
+}
+
+#formacion {
+    background-color: #1e1e1e;
+    border-left: 5px solid #2196F3;
+}
+
+#formacion h2 {
+    color: #2196F3;
+}
+
+#formacion p {
+    margin: 10px 0;
+}
+
+#experiencia {
+    background-color: #1e1e1e;
+    border-left: 5px solid #FF9800;
+}
+
+#experiencia h2 {
+    color: #FF9800;
+}
+
+#experiencia h3 {
+    margin-top: 15px;
+}
+
+#experiencia ul {
+    padding-left: 20px;
+}
+
+#experiencia li {
+    margin-bottom: 6px;
+}
+
+#idiomas {
+    background-color: #1e1e1e;
+    border-left: 5px solid #9C27B0;
+}
+
+#idiomas h2 {
+    color: #9C27B0;
+}
+
+#idiomas p {
+    margin: 8px 0;
+}
+
+#habilidades {
+    background-color: #1e1e1e;
+    border-left: 5px solid #E91E63;
+}
+
+#habilidades h2 {
+    color: #E91E63;
+}
+
+#habilidades p {
+    margin: 10px 0;
+}
